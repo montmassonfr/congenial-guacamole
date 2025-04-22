@@ -5,7 +5,7 @@ set -e
 
 # Configuration
 BASE_DIR="deepzip"
-DEPTH=50
+DEPTH=500
 ZIP_NAME="deepzip-example.zip"
 
 # Clean up any previous run
